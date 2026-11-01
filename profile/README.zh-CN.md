@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/open-wuxu/.github/main/profile/assets/banner.jpg" alt="WUXU · 物序 — Engineering the Physical World" width="100%" />
+  <img src="assets/banner.jpg" alt="WUXU · 物序 — Engineering the Physical World" width="100%" />
 </div>
 
 <div align="center">
